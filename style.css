@@ -1,1 +1,8 @@
-
+header {
+  background: red;
+  text-align: center;
+}
+.icons {
+  width: 30px;
+  height: 30px
+}
